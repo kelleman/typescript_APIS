@@ -1,7 +1,7 @@
 Click the link below for the API Documentation
 API Documentation Link: https://documenter.getpostman.com/view/21753101/2s93sZ5YeR
 
-
+This API is built with Express and TypeScript
 
 
 # Build a REST API with Node.js, Mongoose & TypeScript
